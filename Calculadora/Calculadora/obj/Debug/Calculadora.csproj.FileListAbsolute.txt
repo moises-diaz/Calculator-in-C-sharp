@@ -1,0 +1,13 @@
+C:\Users\alexi\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alexi\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alexi\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\alexi\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\alexi\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\alexi\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Moises\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Moises\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Moises\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Moises\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Moises\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Moises\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
